@@ -8,4 +8,4 @@
 * Analysis the data and transforms non stationary data into stationary data.
 * Tested various models for best future forecasting.
 * Built a Time series Forecasting API using streamlit.
-![image]"C:\Users\anike\Desktop\download.png"
+![image]("C:\Users\anike\Desktop\download.png")
