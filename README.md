@@ -12,7 +12,7 @@
 * Built a Time series Forecasting API using streamlit.
 ![download](https://github.com/Niro105/Niro_Portfolio/assets/126443419/4efac43b-ea38-424b-b0ce-d9db4991717b)
 
-# [Project No. 2.Hotel Rating Classification]
+# [Project No. 2.Hotel Rating Classification]{https://github.com/Niro105/Hotel_Review_NLP_project.git}
 
 ![images (1)](https://github.com/Niro105/Niro_Portfolio/assets/126443419/66102044-5990-4d69-b328-d4541f1000ed)
 
