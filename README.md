@@ -14,7 +14,8 @@
 
 # [Project No. 2.Hotel Rating Classification]
 
-![istockphoto-1487894858-612x612](https://github.com/Niro105/Niro_Portfolio/assets/126443419/2202545b-3883-41ed-aa0a-b581943c4c39)
+![images (1)](https://github.com/Niro105/Niro_Portfolio/assets/126443419/66102044-5990-4d69-b328-d4541f1000ed)
+
 
 In this project, our goal is to examine how travelers are communicating their positive and negative experiences in online platforms for staying in a specific hotel. Our major objective is what are the attributes that travelers are considering while selecting a hotel. With this manager can understand which elements of their hotel influence more in forming a positive review or improves hotel brand image.
 
