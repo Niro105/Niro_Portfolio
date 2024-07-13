@@ -22,3 +22,7 @@ In this project, our goal is to examine how travelers are communicating their po
 
 ![image](https://github.com/Niro105/Niro_Portfolio/assets/126443419/3ce65273-daa4-4124-97b1-79647e62952e)
 
+# [Project No. 3.Liver Disease Detection Project]
+
+{[https://github.com/Niro105/Liver-Disease-Detection.git]}
+![Liver-Disease-scaled](https://github.com/Niro105/Liver-Disease-Detection/assets/126443419/c5e252a0-3089-4924-9a45-7ef38f67d6c8)
